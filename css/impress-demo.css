@@ -527,6 +527,9 @@ a:focus {
     cursor: pointer;
 }
 
+.impress-on-showterm #showterm-zoom {
+    opacity: 1;
+}
 
 /*
     Now, when we have all the steps styled let's give users a hint how to navigate
